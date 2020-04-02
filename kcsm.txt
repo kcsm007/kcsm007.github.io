@@ -34,3 +34,24 @@ CCTV-14,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV-15,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 
 CCTV-17,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+皇家反千组,#genre#
+皇家反千组1,https://youku.cdn6-okzy.com/20200130/10701_2a20ed0a/index.m3u8
+皇家反千组2,https://youku.cdn6-okzy.com/20200130/10702_e417bd61/index.m3u8
+皇家反千组3,https://youku.cdn6-okzy.com/20200130/10703_e7a857df/index.m3u8
+皇家反千组4,https://youku.cdn6-okzy.com/20200130/10704_e117d0d5/index.m3u8
+皇家反千组5,https://youku.cdn6-okzy.com/20200130/10705_411e97e0/index.m3u8
+皇家反千组6,https://youku.cdn6-okzy.com/20200130/10706_94eac084/index.m3u8
+皇家反千组7,https://youku.cdn6-okzy.com/20200130/10707_42e3f044/index.m3u8
+皇家反千组8,https://youku.cdn6-okzy.com/20200130/10708_01c728fd/index.m3u8
+皇家反千组9,https://youku.cdn6-okzy.com/20200130/10709_f565487b/index.m3u8
+皇家反千组10,https://youku.cdn6-okzy.com/20200130/10710_e69c27f7/index.m3u8
+皇家反千组11,https://youku.cdn6-okzy.com/20200130/10711_338e257d/index.m3u8
+皇家反千组12,https://youku.cdn6-okzy.com/20200130/10712_a4c5f514/index.m3u8
+皇家反千组13,https://youku.cdn6-okzy.com/20200130/10713_51138bfb/index.m3u8
+皇家反千组14,https://youku.cdn6-okzy.com/20200130/10714_d6c6a2d8/index.m3u8
+皇家反千组15,https://youku.cdn6-okzy.com/20200130/10715_efaed853/index.m3u8
+皇家反千组16,https://youku.cdn6-okzy.com/20200130/10716_01d9a603/index.m3u8
+皇家反千组17,https://youku.cdn6-okzy.com/20200130/10717_fd2bf598/index.m3u8
+皇家反千组18,https://youku.cdn6-okzy.com/20200130/10718_db011741/index.m3u8
+皇家反千组19,https://youku.cdn6-okzy.com/20200130/10719_831a1a47/index.m3u8
+皇家反千组20,https://youku.cdn6-okzy.com/20200130/10720_233ea64f/index.m3u8
