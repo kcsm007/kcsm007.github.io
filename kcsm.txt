@@ -34,6 +34,21 @@ CCTV-14,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV-15,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 
 CCTV-17,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+港台,#genre#
+龙华电影,http://ms006.happytv.com.tw/live/pK2PLaAx0O6ouIoL/index.m3u8
+无线新闻,http://pull.scphsd.com/live/6df51c3767936a9d60e726f1ef485a40/playlist.m3u8
+有线新闻,http://pull.scphsd.com/live/df4a965672d48edc80d6cacfb094c6c4/playlist.m3u8
+中天新闻,http://pull.scphsd.com/live/c8cf7fdb038156b72b9b5cf4f08c4227/playlist.m3u8
+东森新闻,http://pull.scphsd.com/live/dc91831a13065c9b0ca859bd9f243bfb/playlist.m3u8
+壹新闻,http://pull.scphsd.com/live/99d75c63961dfc39b74da7b0b97299dd/playlist.m3u8
+年代新闻,http://pull.scphsd.com/live/45f76a9322788687c0ae4508d4220874/playlist.m3u8
+非凡新闻,http://pull.scphsd.com/live/42d66d47074d5e441445b5eb19c6b142/playlist.m3u8
+寰宇新闻,http://ter.live2.ksmobile.net/yolo/12c41d70efae4debad80e5d35cf775fb/playlist.m3u8
+寰宇新闻2,http://ter.live2.ksmobile.net/yolo/a37e828f3dda45d28a3638a7613ae264/playlist.m3u8
+民视新闻,http://hdl0901.plures.net/onlive/68a05efc25ea07068b4d0ee2c675536e.flv
+华视新闻,http://pull.scphsd.com/live/2f9e0911842fafa31eea5992e4d4f865.flv
+中视新闻,http://pull.scphsd.com/live/ddf44821873ce55d809102a6481c2550.flv
+TVBS新闻,http://hdl0901.plures.net/onlive/811f1bb5398f2c0a887b66189f0e1c5c.flv
 皇家反千组,#genre#
 皇家反千组1,https://youku.cdn6-okzy.com/20200130/10701_2a20ed0a/index.m3u8
 皇家反千组2,https://youku.cdn6-okzy.com/20200130/10702_e417bd61/index.m3u8
